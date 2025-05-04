@@ -1,0 +1,1 @@
+# Retail-Product-Analysis-Using-SQL-Insights-from-Woolworths-Listings
