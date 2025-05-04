@@ -1,6 +1,6 @@
 # 🛒 Woolworths Product & Sales Insights Using SQL
 
-This project analyzes a dataset of 24,000+ Woolworths product listings, enriched with simulated sales data, to uncover valuable insights for category managers, supply chain analysts, and online merchandising teams.
+This project analyzes a dataset of 24,000+ Woolworths product listings, enriched with sales data, to uncover valuable insights for category managers, supply chain analysts, and online merchandising teams.
 
 ---
 
@@ -8,7 +8,7 @@ This project analyzes a dataset of 24,000+ Woolworths product listings, enriched
 
 - Which product categories have the highest average pricing?
 - Are new products more expensive than existing ones?
-- What percent of products are online-only?
+- What percentage of products are online-only?
 - Which products are missing critical pricing data (PPU)?
 - Which brands have duplicate listings?
 - Which categories generate the most revenue?
@@ -20,9 +20,9 @@ This project analyzes a dataset of 24,000+ Woolworths product listings, enriched
 ## 🛠️ Tools Used
 
 - **SQL Server** (T-SQL, joins, CTEs, window functions)
-- **Excel** (data simulation and formatting)
-- **GitHub** (project portfolio and version control)
-- **DBeaver / SSMS** (SQL IDEs for analysis)
+- **Excel** (data cleaning and formatting)
+- **GitHub** (Version control)
+- **SSMS** (SQL IDE for analysis)
 
 ---
 
