@@ -1,4 +1,7 @@
-# 🛒 Woolworths Product & Sales Insights Using SQL
+<h1>
+  <img src="https://github.com/user-attachments/assets/af82dfd2-660f-48a1-8b7e-34e1dfd3fd08" alt="Woolworths Logo" width="40"/>
+  Woolworths Product & Sales Insights Using SQL
+</h1>
 
 This project analyzes a dataset of 24,000+ Woolworths product listings, enriched with sales data, to uncover valuable insights for category managers, supply chain analysts, and online merchandising teams.
 
